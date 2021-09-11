@@ -1,0 +1,25 @@
+.div{
+    text-align: center;
+}
+
+.rounded-circle{
+	border-radius:5px;
+}
+
+
+
+.pageLink{
+	height:80vh; 
+	cursor: pointer;
+	display: -webkit-flex;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.pageLink:hover {
+   background-color: #98B9F2;
+}
+.contents{
+    text-align: center;
+}
